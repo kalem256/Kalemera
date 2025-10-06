@@ -1,16 +1,17 @@
 body{
   background-color: aqua;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  width: 80%;
-  height: 80%;
+  margin: 10%;
 }
 .sectionstyle{
-width: 55%;
-height: 50%;
 float: right;
 margin-left: 8px;
 }
 .img{
-  width: 45%;
+  float: left;
+  width: 35%;
   height: 40%;
+}
+.foot{
+  float: inline-end;
 }
